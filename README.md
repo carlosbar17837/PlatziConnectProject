@@ -1,2 +1,2 @@
 # PlatziConnectProject
-I am creating this repository to create Project at Platzi Connect 
+I am creating this repository to create a Project at Platzi Connect 
